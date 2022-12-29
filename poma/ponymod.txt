@@ -1,0 +1,28 @@
+[choose 1]
+snake
+giraffe
+alicorn
+eldritch horror
+human
+tree
+spider
+dog
+cat
+lizard
+planet
+kirin
+rock
+giant
+tiny
+changeling
+crystal pony
+griffon
+capybara
+frozen
+slime
+flaming
+skeleton
+ancient cracked
+maid
+dragon
+[/choose]

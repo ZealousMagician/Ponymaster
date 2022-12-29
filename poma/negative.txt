@@ -1,0 +1,6 @@
+[set negRNG]1[/set]
+
+[if negRNG=0]{set negative_prompt}(bad anatomy compression artifacts (bitcoin:0.4) (salvador dali:0.5) CCTV surveillance sex penetration:1.2) ugly poor quality deformed (distorted:0.9) nft silhouette{/set}[/if]
+[else]{set negative_prompt}(bad anatomy compression artifacts (bitcoin:0.4) (salvador dali:0.5) CCTV surveillance sex penetration:1.2) ugly poor quality deformed (distorted:0.9) nft{/set}[/else]
+
+[# The negative prompt at the bottom is the default. "silhouette" changes some parts of image and generally brightens the character (last I tested it).]

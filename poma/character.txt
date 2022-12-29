@@ -1,0 +1,29 @@
+[choose 1]
+princess celestia
+fluttershy
+princess luna
+twilight sparkle
+rainbow dash
+rarity
+starlight glimmer
+applejack
+pinkie pie
+nightmare moon
+king sombra
+zecora
+sweetie belle
+scootaloo
+applebloom
+vinyl scratch
+octavia
+sweetie drops
+derpy
+cozy glow
+changeling
+kirin
+seapony
+pony
+princess cadance
+shining armor
+queen chrysalis
+[/choose]

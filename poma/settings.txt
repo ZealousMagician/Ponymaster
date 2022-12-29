@@ -1,0 +1,3 @@
+[set cfg_scale][random _min=14.5 _max=15.5 _float][/set]
+[set steps]45[/set]
+[set sampler_name]Euler a[/set]

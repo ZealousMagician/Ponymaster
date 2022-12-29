@@ -1,0 +1,53 @@
+[choose 1]
+ambient occlusion
+countershading
+masterpiece
+professional
+intricate
+highly detailed
+amazing
+gorgeous
+vibrant cinematic lighting
+detailed shading
+ray tracing
+sharp focus
+incredible
+impressive
+sharp
+stunning
+beautiful
+crisp
+vibrant colors
+dribbble
+anti-aliased
+Elaborate
+Ornate
+Intricate
+Detailed
+Fine
+Refined
+Complicated
+Convoluted
+Extensive
+Exhaustive
+Far-reaching
+Informative
+In-depth
+Thorough
+Step-by-step
+Exact
+Precise
+Exquisite
+Lavish
+Sumptuous
+opulent
+luxurious
+Intricately designed
+Grandiose
+Stately
+Splendid
+Magnificent
+Precious
+Dazzling
+Imperceptible detail
+[/choose]

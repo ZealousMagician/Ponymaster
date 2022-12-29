@@ -1,0 +1,6 @@
+[chance 60][chance 25]barely [/chance]pony related, [/chance]intricate detail, countershading, vibrant cinematic lighting, [chance 5][file poma/adjective], [/chance][file poma/bracket1][file poma/adjective], :3[file poma/bracket2][file poma/quality], [file poma/quality], trending on [file poma/site], pony [chance 50][file poma/bracket1][file poma/genre] :6[file poma/bracket2][/chance][file poma/bracket1][file poma/style] :3[file poma/bracket2]by ([file poma/superartist]:1.1)
+
+[file poma/negative]
+
+[file poma/settings]
+[##]Delaying parts of the prompt allows it to start with a more coherent base. The file for each individual bracket is dumb but everything else I tried broke it.[/##]

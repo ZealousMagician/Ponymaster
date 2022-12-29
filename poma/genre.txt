@@ -1,0 +1,58 @@
+[choose 1]
+ancient
+anime
+chiaroscuro
+dark fantasy
+fantasy
+film noir
+high fantasy
+medieval
+mid-century
+sci-fi
+synthwave
+victorian
+afrofuturism
+abstract
+aestheticism
+analytical
+arbeitsrat für kunst
+assemblage
+australian tonalism
+les automatistes
+auto-destructive
+baroque
+berlin secession
+cobra
+color field
+dada
+dansaekhwa
+dau-al-set
+de stijl
+fluxus
+gutai group
+happening
+incoherents
+les nabis
+light and space
+lowbrow
+neo-dada
+rococo
+stuckism
+superflat
+atompunk
+biopunk
+cyberpunk
+dieselpunk
+fantasy punk
+frostpunk
+gothpunk
+magicpunk
+mythpunk
+nanopunk
+post-apocalypticpunk
+solarpunk
+spacepunk
+splatterpunk
+steampunk
+steelpunk
+[/choose]

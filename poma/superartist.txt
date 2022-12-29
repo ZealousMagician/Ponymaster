@@ -1,0 +1,60 @@
+[choose 1]
+Ayami Kojima Kelly Freas Makoto Shinkai
+William Hogarth Anna Dittmann Clara Peeters
+WLOP Gil Elvgren Krenz Cushart
+Bayard Wu Moebius Gil Elvgren
+Steve Dillon Anna Dittmann Igor Morski
+Tony Sart Cindy Sherman WLOP
+Frank Xavier Leyendecker Jean Metzinger
+Kinuko Craft Disney Igor Kieryluk
+F. Scott Hess Sam Spratt Greg Hildebrandt
+Pierre Bonnard Lyubov Popova Ohara Koson
+Charles Dana Gibson Walter Beach Humphrey RHADS
+Rene Magritte Clara Peeters Lynda Benglis
+Kinuko Craft Lois van Baarle Bunny Yeager
+Tom Lovell Seb McKinnon Joe Jusko
+Cynthia Sheppard Isaac Levitan Kelly Freas
+Henri Matisse Diane Dillon Antonio Mancini
+Jim Burns Frank Xavier Leyendecker E.H. Shepard
+Robert Delaunay Rafal Olbinski Raymond Swanland
+Cynthia Sheppard Laurel Burch Terry Oakes
+Giorgione Edwin Deakin Peter Helck
+Artgerm Louis Janmot Geof Darrow
+Akihiko Yoshidav Pierre Bonnard Kelly Mckernan
+J.C. Leyendecker RHADS Takashi Murakami
+Giorgione Slawomir Maniak Frank Xavier Leyendecker
+Chris Rallis John Frederick Kensett Rafal Olbinski
+Raymond Swanland Greg Rutkowski Boris Vallejo
+Anna Dittmann Cedric Peyravernay franz xaver winterhalter
+Mark Ryden J.C. Leyendecker Jesper Ejsing
+Lynda Benglis Jesper Ejsing Maciej Kuciara
+Filippino Lippi Rossdraws Artgerm
+J.C. Leyendecker RHADS Clara Peeters
+Edvard Munch Seb McKinnon Anton Otto Fischer
+Esao Andrews Takashi Murakami Louis Janmot
+J.C. Leyendecker Henri Matisse Yayoi Kusama
+Agnes Cecile Squeak Carnwath Galan Pang
+Tom Bagshaw Yuumei Koson Ohara
+Luisa Russo Max Pechstein Peter Paul Rubens
+Blek Le Rat Frans Snyders Danny Roberts
+Ernst Haas Franz Kline Ed Emshwiller
+Anselm Kiefer Carne Griffiths Nick Silva
+Frits Van den Berghe Anna Razumovskaya Charles Courtney Curran
+Craig Davison Dave Rapoza Diane Dillon
+Jacques Le Moyne Franz Kline Adrian Tomine
+Anka Zhuravleva Hiroshi Yoshida Jed Henry
+Paul Laffoley Ross Tran David Bailey
+Lee Krasner Hans Arnold Robert Vonnoh
+Paulus Potter Jamie Baldridge Pieter Aertsen
+Arthur Rackham Clarence Gagnon Richard McGuire
+(RHADS:1.1) Clayton Crain (Dale Chihuly:0.8)
+Hendrik Kerstens Paul Gauguin (Dale Chihuly:0.25)
+[franz xaver winterhalter sophie anderson:Filippino Lippi Dreamworks Vladimir Kush:8]
+[Robert Delaunay Rafal Olbinski Raymond Swanland:Anna Dittmann Cedric Peyravernay franz xaver winterhalter:18]
+[Henri Matisse Robert Delaunay Ohara Koson:Diane Dillon Robert Delaunay Sylvain Sarrailh:5]
+[Artgerm Louis Janmot Geof Darrow:J.C. Leyendecker RHADS Takashi Murakami:10]
+[Mark Ryden J.C. Leyendecker Jesper Ejsing:Pierre Bonnard Lyubov Popova Ohara Koson:16]
+[Lyubov Popova Ray Caesar Margaret Macdonald Mackintosh:Patrick Dougherty sophie anderson:12]
+[Pierre Bonnard Lyubov Popova Ohara Koson:Edgar Maxence Rebecca Guay Clive Madgwick:6]
+[sculpture by [Henri Matisse Robert Delaunay Ohara Koson:Diane Dillon Robert Delaunay Sylvain Sarrailh:5]:by Charlie Bowater Roberto Ferri Dmitri Danish:10]
+[/choose]

@@ -1,0 +1,79 @@
+Optimal settings for each prompt are "0.6 denoising strength, 25 steps, euler a, 15 CFG, negative prompt: (bad anatomy compression artifacts (bitcoin:0.4) (salvador dali:0.5) CCTV surveillance sex penetration:1.2) ugly poor quality deformed (distorted:0.9) nft" unless otherwise specified.
+
+intricate detail, countershading, vibrant cinematic lighting, fluffy, (rusty:0.7), Convoluted, Precise, trending on zbrushcentral/500px/behance/cgsociety, depth of field, pony nanopunk (rendered in maya:0.8) by F. Scott Hess Sam Spratt Greg Hildebrandt
+|- creates a high quality smooth 3d render
+|-0.55 denoising strength
+
+intricate detail, countershading, vibrant cinematic lighting, extraordinary, gigantic, Lavish, Grandiose, trending on cgsociety, pony dada 8k resolution by Agnes Cecile Squeak Carnwath Galan Pang
+|-high quality, pretty flowy sparkly images with blur. Makes horse more horselike.
+
+intricate detail, countershading, vibrant cinematic lighting, boring, spiritual, Precise, crisp, trending on Pixiv, pony biopunk psychedelic art by Mandy Disher Pipilotti Rist Vincent Di Fate
+|-psychedelic; detailed mane and detailed trippy eyes
+
+intricate detail, countershading, vibrant cinematic lighting, wispy, natural, ambient occlusion, Thorough, trending on Getty Images, pony dada plushie by Mandy Disher Pipilotti Rist Vincent Di Fate
+|-plushify
+
+(negative space:0.4), (double exposure effect:0.6),( silhouette:0.5), (starry:0.7), intricate detail, countershading, vibrant cinematic lighting, phantasmal, unusual, modular, opulent, Informative, trending on Pixiv, pony splatterpunk chibi by Agnes Cecile Squeak Carnwath Galan Pang
+|-cute anime-ify
+
+outlined, vibrant cinematic lighting, uptight, simple, meek, Far-reaching, Precious, trending on ArtStation, pony flat shading show-accurate (vector:1.1) by Craig Thompson Pascale Campion E.H. Shepard
+|-show-style (at least as close as I could get it to be)
+
+swirly tubes, intricate detail, countershading, vibrant cinematic lighting, chroma, elite, average, ray-marching, In-depth, sharp focus, trending on Pixiv, pony high fantasy hypermodernism by Mark Ryden J.C. Leyendecker Jesper Ejsing
+|-cute, comfy, cozy 3d style
+
+intricate fur, intricate detail, countershading, vibrant cinematic lighting, step-by-step, boring, conscious, petrified, Convoluted, Intricate, trending on ArtStation, pony baroque {pop art|Perspective painting} by Esao Andrews Takashi Murakami Louis Janmot
+|-very detailed fluffy
+
+image macro, intricate detail, countershading, vibrant cinematic lighting, triangular polgyonal, deteriorating, good, shadowy, Elaborate, opulent, trending on zbrushcentral, pony mid-century pastel painting by [franz xaver winterhalter sophie anderson:Filippino Lippi Dreamworks Vladimir Kush:8]
+|-fancy classic 1800's style
+
+intricate detail, countershading, vibrant cinematic lighting, fractoids, cyberpunk, skillful, elastic, Splendid, Grandiose, trending on Pixiv, pony figurine by [Mark Ryden J.C. Leyendecker Jesper Ejsing:Pierre Bonnard Lyubov Popova Ohara Koson:16]
+|-figurine style
+
+multicolored paint strokes, intricate detail, countershading, vibrant cinematic lighting, glamorous, unappetizing, vibrant cinematic lighting, countershading, trending on Pixiv, pony splatterpunk [wood puppet:{splattered goo:1.5|pencil sketch}:14] by Cynthia Sheppard Isaac Levitan Kelly Freas
+|-colorful soft digital art somewhat-painty style
+
+multicolored paint strokes, intricate detail, countershading, vibrant cinematic lighting, tiny, detailed shading, dribbble, trending on 500px, pony analytical pastel painting by Luisa Russo Max Pechstein Peter Paul Rubens
+|- very soft vibrant painting
+
+melting into the sky, intricate detail, countershading, vibrant cinematic lighting, superficial, lens flares, impressive, Ornate, trending on Getty Images, pony incoherents Baroque painting by Hendrik Kerstens Paul Gauguin (Dale Chihuly:0.25)
+|-old painting style, somewhat surreal features, more horselike, introduces clouds
+
+floating tendril mane, intricate detail, countershading, vibrant cinematic lighting, tiny, meek, gorgeous, Detailed, trending on Getty Images, pony assemblage surrealism by Tom Lovell Seb McKinnon Joe Jusko
+|-smooth colours with soft pretty shading, somewhat 3d
+
+made from Felt fibers, made of yarn, intricate detail, countershading, vibrant cinematic lighting, photorealistic, shadowy, Elaborate, Exact, trending on 500px, pony victorian fauvism by Pierre Bonnard Lyubov Popova Ohara Koson
+|-yarn pony, is yarn
+
+intricate detail, countershading, vibrant cinematic lighting, boorish, repressive, countershading, Complicated, trending on cgsociety, pony mid-century charcoal drawing paper craft cut, paper illustration by Kinuko Craft Disney Igor Kieryluk
+|-flat paper craft pony
+
+intricate detail, countershading, vibrant cinematic lighting, harsh, slimy, beautiful, Refined, trending on zbrushcentral, pony dau-al-set hypermodernism by Lynda Benglis Jesper Ejsing Maciej Kuciara
+|-detailed 3d with depth and more horse-like features, requires good base image with good anatomy. Sometimes doesn't look good.
+|-0.5 denoising strength
+
+intricate detail, countershading, vibrant cinematic lighting, boorish, fluffy, professional, stunning, trending on Getty Images, pony dieselpunk cubism by Akihiko Yoshidav Pierre Bonnard Kelly Mckernan
+|-cute and fluffy 2d
+
+intricate detail, countershading, vibrant cinematic lighting, weird, kindhearted, beautiful, In-depth, trending on zbrushcentral, pony baroque chibi by Chris Rallis John Frederick Kensett Rafal Olbinski
+|-very cute soft pony
+
+intricate detail, countershading, vibrant cinematic lighting, moody, kindhearted, Exquisite, ray tracing, trending on 500px, pony superflat concrete art by Edvard Munch Seb McKinnon Anton Otto Fischer
+|-comfy smooth 3d
+
+intricate detail, countershading, vibrant cinematic lighting, fluffy, dusty, Precise, detailed shading, trending on cgsociety, pony assemblage surrealism by Henri Matisse Diane Dillon Antonio Mancini
+|-old painting style, fluffy, outlines
+
+cosmic, (black light), intricate detail, countershading, vibrant cinematic lighting, festive, capricious, Fine, intricate, trending on Behance, pony mythpunk figurine by Chris Rallis John Frederick Kensett Rafal Olbinski
+|-shadowy shading, figurine appearance, a little starry sometimes
+|-0.66 denoising strength
+
+intricate linework, intricate detail, countershading, vibrant cinematic lighting, ray-marching, highly detailed, stunning, Detailed, trending on Behance, pony solarpunk sculpture by Blek Le Rat Frans Snyders Danny Roberts
+|-more complex/messy, 3d
+
+intricate detail, countershading, vibrant cinematic lighting, simple, average, intricate, Refined, trending on ArtStation, pony auto-destructive pop art by Anselm Kiefer Carne Griffiths Nick Silva
+|-stunning bold colours and 2d linework, my (Zealousmagician's) personal favourite
+
+intricate detail, countershading, vibrant cinematic lighting, [cromulent:3, ]Dazzling, ray tracing, trending on 500px, pony[ frostpunk:6] [[portrait:mannerism:12] :3] by Esao Andrews Takashi Murakami Louis Janmot
+|-soft cute 3d look, some blur

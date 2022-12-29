@@ -1,0 +1,13 @@
+[set choice][random 99][/set]
+
+[if choice="49" _is="<="]{set path}1{/set}[/if][else]{set path}2{/set}[/else]
+
+[switch path]
+[case 1][file poma/mainbranchfinisher][/case]
+[case 2][file poma/trippybranchfinisher][/case]
+[case][file poma/mainbranchfinisher][/case]
+[/switch]
+
+[if batch_index=0][file poma/mainbranchfinisher][/if]
+
+[# Without the batch_index test here, the first image output always lacks a positive prompt. I don't know why, so this somewhat clumsy fix is here for that purpose.]

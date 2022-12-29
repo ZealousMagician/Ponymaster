@@ -1,0 +1,111 @@
+[choose 1]
+2d game art
+3D VR painting
+8k resolution
+anime
+artistic photograph
+Baroque painting
+chibi
+clay model
+classical realism
+cloisonnism
+context art
+computer art
+concrete art
+conceptual art
+crystal cubism
+cubo-futurism
+cynical realism
+cubism
+depth of field
+digital painting
+dream
+dutch golden age
+deconstructivism
+excessivism
+expressionism
+fantastic realism
+fauvism
+filmed in IMAX
+fine art
+figurine
+flat shading
+Flemish Baroque
+funk art
+futurism
+Gouache Painting
+graffiti
+geometric abstract art
+glitch art
+highly detailed
+hyperrealism
+hypermodernism
+impressionism
+Impasto painting
+ice sculpture
+low-poly
+Luminism painting
+Marvel Comics
+mixed media
+magic realism
+mail art
+mannerism
+massurrealism
+maximalism
+metaphysical painting
+mingei
+minimalism
+modernism
+modular constructivism
+naive art
+neoclassicism
+oil painting
+paper craft cut, paper illustration
+pastel painting
+pencil sketch
+Perspective painting
+photograph
+Playstation 5 screenshot
+pop art
+portrait
+polaroid
+raytracing
+render
+rendered in maya
+sculpture
+Sfumato painting
+surrealist
+statue
+unreal engine render
+show accurate vector image
+visionary hypermaximalism
+volumetric lighting
+vray tracing
+watercolor painting
+wood puppet
+plushie
+psychedelic art
+splattered goo
+surrealism
+symbolism
+synchromism
+synthetism
+charcoal drawing
+(sketch:0.9) (watercolor:0.6)
+(pencil sketch:0.3) (pop art:1.1)
+(naive art:0.4) (mixed media:0.8)
+(magic realism:0.7) (cubism:0.6)
+(chibi figurine:0.5) (excessivism:0.5)
+(clay model:1.2) (charcoal drawing:0.8)
+(concrete art:1.1) (sculpture:0.4)
+(pencil sketch:1.0) (figurine:0.4)
+(raytracing:1.2) (pop art:1.1)
+[pencil sketch:digital painting:10]
+[Sfumato painting:highly detailed:10]
+[splattered goo:pencil sketch:13]
+[charcoal drawing:digital painting:7]
+[charcoal drawing:paper craft cut, paper illustration:13]
+[charcoal drawing:plushie:9]
+[render:pop art:8]
+[[3D VR painting:paper craft cut, paper illustration:12] :3]
+[/choose]
