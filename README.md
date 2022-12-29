@@ -2,6 +2,7 @@
 ### This is a collection of dynamic prompts to allow anyone to create images with high quality, randomised pony-specific prompts.
 
 ![ponymaster showcase](https://user-images.githubusercontent.com/87048928/209909083-167e30bb-07bc-4221-bc27-6db703edafd7.png)
+(All images made without V3.1)
 
 ### Here you'll find information about how to use Ponymaster, as well as credits and a changelog at the end.
 
