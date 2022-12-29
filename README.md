@@ -28,7 +28,7 @@ Something important to note is that the custom merge model and pony v3.1 model s
 Take a look at poma/upgradenotes for information regarding each prompts' style and optimal settings.
 [file poma/preset] is the same but for regular txt2img prompting. In my limited testing I've found it doesn't have great outputs, but your results may vary.
 
-- **[file poma/negative]**: The negative prompt file, which contains a (painstakingly-crafted) negative prompt. This is usually automatically applied when using Ponymaster. It also has an alternate prompt which you can enable- ppen the file for more info.
+- **[file poma/negative]**: The negative prompt file, which contains a (painstakingly-crafted) negative prompt. This is usually automatically applied when using Ponymaster. It also has an alternate prompt which you can enable- open the file for more info.
 
 - **[file poma/settings]**: The settings file- it changes steps to 45, sampler to Euler a, and CFG scale to a number between 14.5 and 15.5 (15 seems to be the optimal amount, but I've set it to a small range around that number just for fun and slightly more variation). This is usually automatically applied when using Ponymaster. Note that while CFG is slightly randomized between generations, it is not randomised between batches like other parts of Ponymaster due to a limitation of the Unprompted extension.
 
