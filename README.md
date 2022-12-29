@@ -1,13 +1,13 @@
 # Ponymaster
-### This is a collection of dynamic prompts to allow anyone to create images with high quality, randomised pony-specific prompts.
+### This is a collection of dynamic prompts to allow anyone to create images with high quality, randomised pony-specific prompts for Stable Diffusion.
 
 ![ponymaster showcase](https://user-images.githubusercontent.com/87048928/209909083-167e30bb-07bc-4221-bc27-6db703edafd7.png)
 (All images made without V3.1)
 
 ### Here you'll find information about how to use Ponymaster, as well as credits and a changelog at the end.
 
-Ponymaster runs on the Unprompted extension (last update: 4.3.0), which allows you to input [file x/y] in the prompt to run files at a specified location, with its own sort of code and wildcard system. "poma" is just short for Ponymaster in the files.
-To set Ponymaster up, first ensure you have unprompted installed, either through the webui extensions tab (make sure you unhide extensions with ads), or download it from https://github.com/ThereforeGames/unprompted. Once you've done that, move the "poma" folder to the templates folder in unprompted.
+Ponymaster runs on the Unprompted extension (last update: 4.3.0) for Stable Diffusion, which allows you to input [file x/y] in the prompt to run files at a specified location, with its own sort of code and wildcard system. "poma" is just short for Ponymaster in the files.
+To set Ponymaster up, first ensure you have Stable Diffusion installed, then make sure you have unprompted installed, either through the webui extensions tab (make sure you unhide extensions with ads), or download it from https://github.com/ThereforeGames/unprompted. Once you've done that, move the "poma" folder to the templates folder in unprompted.
 
 Ponymaster is tested on and intended for use with Astraliteheart's V3.1 pony model, or alternatively a custom merge containing V1 and V2 if you do not have access to V3.
 To create the custom model:
