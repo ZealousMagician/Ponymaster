@@ -45,4 +45,5 @@ Ponymaster was made by Zealousmagician, with some minor support from Yossarian.
 
 ---------------------------------------
 Changelog:
+
 V1.0: Initial release!
