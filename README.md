@@ -1,5 +1,5 @@
 # Ponymaster
-### Hey, thanks for downloading Ponymaster! This is a collection of dynamic prompts to allow anyone to create images with prompts of the best quality possible.
+### This is a collection of dynamic prompts to allow anyone to create images with prompts of the best quality possible.
 
 ### Here you'll find information about how to use Ponymaster, as well as credits and a changelog at the end.
 
