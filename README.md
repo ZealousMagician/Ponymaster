@@ -1,6 +1,8 @@
 # Ponymaster
 ### This is a collection of dynamic prompts to allow anyone to create images with high quality, randomised pony-specific prompts.
 
+![ponymaster showcase](https://user-images.githubusercontent.com/87048928/209909083-167e30bb-07bc-4221-bc27-6db703edafd7.png)
+
 ### Here you'll find information about how to use Ponymaster, as well as credits and a changelog at the end.
 
 Ponymaster runs on the Unprompted extension (last update: 4.3.0), which allows you to input [file x/y] in the prompt to run files at a specified location, with its own sort of code and wildcard system. "poma" is just short for Ponymaster in the files.
