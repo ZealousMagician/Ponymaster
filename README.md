@@ -7,7 +7,7 @@
 ### Here you'll find information about how to use Ponymaster, as well as credits and a changelog at the end.
 
 Ponymaster runs on the Unprompted extension (last update: 4.3.0) for Stable Diffusion, which allows you to input [file x/y] in the prompt to run files at a specified location, with its own sort of code and wildcard system. "poma" is just short for Ponymaster in the files.
-To set Ponymaster up, first ensure you have Stable Diffusion installed, then make sure you have unprompted installed, either through the webui extensions tab (make sure you unhide extensions with ads), or download it from https://github.com/ThereforeGames/unprompted. Once you've done that, move the "poma" folder to the templates folder in unprompted.
+To set Ponymaster up, first ensure you have Stable Diffusion installed, then make sure you have Unprompted installed, either through the webui extensions tab (make sure you unhide extensions with ads), or download it from https://github.com/ThereforeGames/unprompted. Once you've done that, move the "poma" folder to the templates folder in unprompted.
 
 Ponymaster is tested on and intended for use with Astraliteheart's V3.1 pony model, or alternatively a custom merge containing V1 and V2 if you do not have access to V3.
 To create the custom model:
