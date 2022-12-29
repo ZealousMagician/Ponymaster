@@ -9,7 +9,7 @@ To set Ponymaster up, first ensure you have unprompted installed, either through
 Ponymaster is tested on and intended for use with Astraliteheart's V3.1 pony model, or alternatively a custom merge containing V1 and V2 if you do not have access to V3.
 To create the custom model:
 - Download the V1 and V2 pony model, as well as the Wikiartv2 model (these can be located at https://rentry.org/sdmodels)
-![](https://imgur.com/QL4YEaq)
+![Example](https://imgur.com/QL4YEaq)
 - Merge the pony V1 model with the Wikiartv2 model, 85% Pony V1 to 15% wikiartv2. (customv1)
 - Merge the customv1 model with the pony V2 model, 75% customv1 to 25% pony V2. This will give you the model (customv2) that outputs the best results with Ponymaster if you do not have access to pony V3.1
 - If you have access to pony V3.1 and wish to create 512x512 images, or to achieve the highest quality for the upgrade feature, then merge the customv2 model with pony V3.1, 75% customv2 to 25% pony V3.1. This will give you the ideal model for 512x512 image generation with Ponymaster. Keep in mind that Pony V3.1 at 768x768 is better in quality than the custom merge at 512x512; the exception being with the use of the upgrade feature for img2img which is further explained later in this document.
