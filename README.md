@@ -19,7 +19,7 @@ To create the custom model:
 - If you have access to pony V3.1 and wish to create 512x512 images, or to achieve the highest quality for the upgrade feature, then merge the customv2 model with pony V3.1, 75% customv2 to 25% pony V3.1. This will give you the ideal model for 512x512 image generation with Ponymaster. Keep in mind that Pony V3.1 is ideal for 768x768 generations for txt2img.
 
 
-To start, simply type "[file poma/main]" into the prompt field to run the main branch of Ponymaster. This will create images of random ponies doing random things in many different styles- most of which being high quality. The only settings you need to change are the width and height (if you're not sure, 512x512 for v1/v2/custom models, 768x768 for v3.1), the batch count and batch size, and the checkpoint/model being used. The seed isn't necessary to change from -1 but is untouched by Ponymaster.
+To start, simply type "[file poma/main]" (case-sensitive!) into the prompt field to run the main branch of Ponymaster. This will create images of random ponies doing random things in many different styles- most of which being high quality. The only settings you need to change are the width and height (if you're not sure, 512x512 for v1/v2/custom models, 768x768 for v3.1), the batch count and batch size, and the checkpoint/model being used. The seed isn't necessary to change from -1 but is untouched by Ponymaster.
 ![Screenshot 2022-12-29 154539](https://user-images.githubusercontent.com/87048928/209904582-4cac7a2a-2314-4b80-80cd-710084b0aad2.png)
 
 If you're running a large batch, it may take a minute for stable diffusion to actually start. This is normal, although likely due to poor optimisation on my part.
