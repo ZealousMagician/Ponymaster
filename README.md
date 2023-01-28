@@ -50,6 +50,8 @@ Take a look at poma/upgradenotes for information regarding each prompts' style a
 
 Ponymaster was made by Zealousmagician, with some minor support from Yossarian.
 
+Credit to Lopyter for their [Stable Soup Prompts](https://github.com/Lopyter/stable-soup-prompts) which have contributed to some of the lists used for Ponymaster.
+
 ---------------------------------------
 Changelog:
 
