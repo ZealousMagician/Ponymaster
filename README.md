@@ -2,24 +2,24 @@
 ### This is a collection of dynamic prompts to allow anyone to create images with high quality, randomised pony-specific prompts for Stable Diffusion.
 
 ![ponymaster showcase](https://user-images.githubusercontent.com/87048928/209909083-167e30bb-07bc-4221-bc27-6db703edafd7.png)
-(All images made without V3.1)
+(All images made using Pony Soup V1/V2)
 
 ### Here you'll find information about how to use Ponymaster, as well as credits and a changelog at the end.
 
 Ponymaster runs on the Unprompted extension (last update: 4.3.0) for Stable Diffusion, which allows you to input [file x/y] in the prompt to run files at a specified location, with its own sort of code and wildcard system. "poma" is just short for Ponymaster in the files.
 To set Ponymaster up, first ensure you have Stable Diffusion installed, then make sure you have Unprompted installed, either through the webui extensions tab (make sure you unhide extensions with ads), or download it from https://github.com/ThereforeGames/unprompted. Once you've done that, move the "poma" folder to the templates folder in unprompted.
 
-Ponymaster is tested on and intended for use with Astraliteheart's V3.1 pony model, or alternatively a custom merge (hereby named "Pony Soup v1") containing V1, V2, and optionally V3.1 (Pony Soup with V3.1 included is referred to as Pony Soup V2). V3.1 and Pony Soup v1/v2 have different strengths and weaknesses: V3.1 768x768 creates sharper, more detailed images, however it can be less coherent and more messy; Pony Soup v1/v2 at 512x512 is better for the upgrade feature and is also generally more coherent, but can be less varied and detailed.
+Ponymaster is tested on and intended for use with the Pony Soup V2 custom merge model, which can be downloaded from [here](https://mega.nz/file/VXl2FaxJ#LWl_lnwHZE8DiIZF8D1CvkguR400BVU6ET6WXWtPgFk). It is suitable for use Astraliteheart's Pony Diffusion models, but it is strongly recommended you use Pony Soup V2. Pony Diffusion V3 is better for 768x768 images without high-res fix, but otherwise you should use the Pony Soup V2 model.
 
-To create the Pony Soup model:
-- Download the V1 and V2 pony model, as well as the Wikiartv2 model (these can be located at https://rentry.org/sdmodels)
-- Merge the pony V1 model with the Wikiartv2 model, 85% Pony V1 to 15% wikiartv2.
+For those who wish to know how the Pony Soup V2 model is created, the instructions are as follows:
+- Download the V1, V2 and V3 Pony Diffusion models, as well as the Wikiartv2 model. These can be located at https://rentry.org/sdmodels, with exception to the V3 Pony Diffusion model which is currently only available on the Purplesmart.ai discord.
+- Merge the Pony Diffusion V1 model with the Wikiartv2 model, 85% Pony V1 to 15% wikiartv2.
 ![Screenshot 2022-12-29 153516](https://user-images.githubusercontent.com/87048928/209904369-a5400719-51a9-4390-a308-3a8368b70fe5.png)
-- Merge the resulting model with the pony V2 model, 75% customv1 to 25% pony V2. This will give you the Pony Soup v1 model, which outputs the best results with Ponymaster if you do not have access to pony V3.1
-- If you have access to pony V3.1 and wish to create 512x512 images, or to achieve the highest quality for the upgrade feature, then merge the Pony Soup v1 model with pony V3.1, 75% Pony Soup v1 to 25% pony V3.1. This will give you the ideal model for image generation with Ponymaster. Keep in mind that Pony V3.1 is of similar quality to Pony Soup V2 for 768x768 generations for txt2img.
+- Merge the resulting model with the pony V2 model, 75% customv1 to 25% pony V2. This will give you the Pony Soup V1 model.
+- Merge the Pony Soup v1 model with Pony Diffusion V3, 75% Pony Soup v1 to 25% Pony V3. This will give you the ideal model for image generation with Ponymaster- Pony Soup V2.
 
 
-To start, simply type "[file poma/main]" (case-sensitive!) into the prompt field to run the main branch of Ponymaster. This will create images of random ponies doing random things in many different styles- most of which being high quality. The only settings you need to change are the width and height (if you're not sure, 512x512 for v1/v2/Pony Soup models, 768x768 for v3.1), the batch count and batch size, and the checkpoint/model being used. The seed isn't necessary to change from -1 but is untouched by Ponymaster.
+To start, simply type "[file poma/main]" (case-sensitive!) into the prompt field to run the main branch of Ponymaster. This will create images of random ponies doing random things in many different styles- most of which being high quality. The only settings you need to change are the width and height (if you're not sure, 512x512 for v1/v2/Pony Soup models, 768x768 for v3), the batch count and batch size, and the checkpoint/model being used. The seed isn't necessary to change from -1, but is untouched by Ponymaster.
 ![Screenshot 2022-12-29 154539](https://user-images.githubusercontent.com/87048928/209904582-4cac7a2a-2314-4b80-80cd-710084b0aad2.png)
 
 If you're running a large batch, it may take a minute for stable diffusion to actually start. This is normal, although likely due to poor optimisation on my part.
@@ -30,8 +30,8 @@ Other prompts and files of note are explained below.
 
 - **[file poma/experimental]**: Similar to poma/main, but chooses between three different randomized prompts across either the main or trippy variant, which randomly combines two styles, combines two superartists, or combines three artists from a very long list. Useful for if you want to find completely new styles or superartists.
 
-- **[file poma/upgrade]**: This is used exclusively for img2img. This file contains a list of prompts which apply various high-quality/novel styles to the image, and can be used to turn a pony in an image into a lifelike plushie, a 3d render, an anime artwork, and more. It also automatically changes the negative prompt and settings for img2img. If you know what you're doing, there's a notes file describing each of the prompts' styles, and you can adjust the denoising strength to suit your needs.
-Something important to note is that the Pony Soup model is vastly superior to the unmerged pony models in this area, except with V3.1 for 768x768 img2img generations in which it is of similar quality.
+- **[file poma/upgrade]**: This is used exclusively for img2img. This file contains a list of prompts which apply various high-quality/novel styles to the image, and can be used to turn a pony in an image into a lifelike plushie, a 3d render, an anime artwork, and more. It also automatically changes the negative prompt and settings for img2img. If you know what you're doing, there's a notes file describing each of the prompts' styles, and you can adjust the denoising strength and other settings to suit your needs by editing the upgrade text file.
+
 Take a look at poma/upgradenotes for information regarding each prompts' style and optimal settings.
 [file poma/preset] is the same but for regular txt2img prompting. In my limited testing I've found it doesn't have great outputs, but your results may vary.
 
