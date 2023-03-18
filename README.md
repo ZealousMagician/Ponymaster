@@ -9,15 +9,14 @@
 Ponymaster runs on the Unprompted extension (last update: 4.3.0) for Stable Diffusion, which allows you to input [file x/y] in the prompt to run files at a specified location, with its own sort of code and wildcard system. "poma" is just short for Ponymaster in the files.
 To set Ponymaster up, first ensure you have Stable Diffusion installed, then make sure you have Unprompted installed, either through the webui extensions tab (make sure you unhide extensions with ads), or download it from https://github.com/ThereforeGames/unprompted. Once you've done that, move the "poma" folder to the templates folder in unprompted.
 
-Ponymaster is tested on and intended for use with the Pony Soup V2 custom merge model, which can be downloaded from [here](https://mega.nz/file/VXl2FaxJ#LWl_lnwHZE8DiIZF8D1CvkguR400BVU6ET6WXWtPgFk). It is suitable for use Astraliteheart's Pony Diffusion models, but it is strongly recommended you use Pony Soup V2. Pony Diffusion V3 is better for 768x768 images without high-res fix, but otherwise you should use the Pony Soup V2 model.
+Ponymaster is tested on and intended for use with the Pony Soup V2 and newer V2-Remix custom merge models, which can be downloaded from Civitai [here](https://civitai.com/models/20852/pony-soup). It is suitable for use Astraliteheart's Pony Diffusion models, but it is strongly recommended you use Pony Soup V2/V2-Remix. Pony Diffusion V3 is better for 768x768 images without high-res fix, but otherwise you should use the Pony Soup V2/V2-Remix model.
 
 For those who wish to know how the Pony Soup V2 model is created, the instructions are as follows:
 - Download the V1, V2 and V3 Pony Diffusion models, as well as the Wikiartv2 model. These can be located at https://rentry.org/sdmodels, with exception to the V3 Pony Diffusion model which is currently only available on the Purplesmart.ai discord.
 - Merge the Pony Diffusion V1 model with the Wikiartv2 model, 85% Pony V1 to 15% wikiartv2.
 ![Screenshot 2022-12-29 153516](https://user-images.githubusercontent.com/87048928/209904369-a5400719-51a9-4390-a308-3a8368b70fe5.png)
 - Merge the resulting model with the pony V2 model, 75% customv1 to 25% pony V2. This will give you the Pony Soup V1 model.
-- Merge the Pony Soup v1 model with Pony Diffusion V3, 75% Pony Soup v1 to 25% Pony V3. This will give you the ideal model for image generation with Ponymaster- Pony Soup V2.
-
+- Merge the Pony Soup v1 model with Pony Diffusion V3, 75% Pony Soup v1 to 25% Pony V3. This will give you the ideal model (other than V2-Remix) for image generation with Ponymaster- Pony Soup V2.
 
 To start, simply type "[file poma/main]" (case-sensitive!) into the prompt field to run the main branch of Ponymaster. This will create images of random ponies doing random things in many different styles- most of which being high quality. The only settings you need to change are the width and height (if you're not sure, 512x512 for v1/v2/Pony Soup models, 768x768 for v3), the batch count and batch size, and the checkpoint/model being used. The seed isn't necessary to change from -1, but is untouched by Ponymaster.
 ![Screenshot 2022-12-29 154539](https://user-images.githubusercontent.com/87048928/209904582-4cac7a2a-2314-4b80-80cd-710084b0aad2.png)
